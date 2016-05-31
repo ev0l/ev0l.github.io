@@ -16,10 +16,10 @@ A stateful component based framworking in Objective-C leveraging grand centrial 
 
 What does it do?
 
--Displays the power and eligance of Objective-C
--Maintains state and abstracts HTTP from the developer 
--Provides a framework for doing cool stuff 
--Component and callback based based. 
+- Displays the power and eligance of Objective-C
+- Maintains state and abstracts HTTP from the developer 
+- Provides a framework for doing cool stuff 
+- Component and callback based based. 
 
 ---
 
