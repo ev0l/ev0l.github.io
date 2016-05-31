@@ -1,0 +1,26 @@
+---
+title: "ESC, An Objective-C Internet Development Framework Using Embedable Stateful Components"
+layout: post
+date: 2016-05-30 22:15
+tag: jekyll
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "An intresting way of doing something normal in a lauguage you would never expect to do it in."
+---
+
+![Screenshot](https://raw.githubusercontent.com/ev0l/ev0l.github.com/master/assets/images/ECSCounter.png)
+
+A stateful component based framworking in Objective-C leveraging grand centrial dispatch, blocks, server state, callbacks, and completly abstractes HTTP. It's too bad Apple does not make dencent servers :-(
+---
+
+What does it do?
+
+-Displays the power and eligance of Objective-C
+-Maintains state and abstracts HTTP from the developer 
+-Provides a framework for doing cool stuff 
+-Component and callback based based. 
+
+---
+
+[Check it out](http://ev0l.github.com/ECS/) here.
