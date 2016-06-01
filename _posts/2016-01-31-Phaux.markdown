@@ -1,0 +1,21 @@
+---
+title: "Phaux, Because dealing with HTTP sucks"
+layout: post
+date: 2016-05-31 22:15
+tag: PHP
+headerImage: false
+projects: true
+hidden: true # don't count this post in blog pagination
+description: "Components, Callbacks, HTML API, REServe, Errors OH MY!"
+---
+A component based framework for creating applications using callbacks and maintaining state for you. 
+---
+
+
+A simple [example](https://github.com/ev0l/phaux/blob/master/Classes/Phaux-test/WHCounter.php) of how Phaux maintains state for you. 
+The counter component counts! Wow!
+
+
+---
+
+[Phaux!](https://github.com/ev0l/ESC) .
