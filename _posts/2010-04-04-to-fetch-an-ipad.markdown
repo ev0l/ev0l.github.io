@@ -9,6 +9,7 @@ blog: true
 ## To Fetch An iPad:
 
 ###8:00 AM
+
  I start my car and leave the garage to fetch my friend, Dan, for a road trip. The Apple iPad was released today and we have two on reserve. The only problem is that they were released in the USA and we live in Canada. Not an insurmountable problem, I own a vehicle, a dirty old stick shift Pontiac that I bought in Florida when I lived in NY (that is another story).
 
 I am a US citizen, always have been, and Dan is a Canadian citizen, with a slight paranoia about borders. I, being a US citizen living in Canada, am accustomed to crossing the border by air and land. The act of crossing that government-drawn line evokes little reaction in me other than boredom. That was a mistake.
@@ -18,6 +19,7 @@ I picked up Dan, who had packed a duffel back full of clothes so that I may drop
 The border was an odd mix of busy and empty. The newer customs stalls were packed 4 cars deep, the older ones without the large overhanging structure were mostly empty. I picked the familiar, those booths that have been there as long as I have been crossing the border.
 
 ###“ You have your passport?”
+
  I ask Dan. He hands me his passport. Holding both the familiar eagle and unfamiliar seal of Canada in my hand I approach the customs booth. Just before the booth, crowned by a stop sign, is a walkway that the agents use to cross between booths. Previous to driving over the walk, an agent had used that walk to cross. I stop before the walk and proceed to the booth. handing both our passports to the agent.
 
 “What is you citizenship?” The agent says.
@@ -42,6 +44,7 @@ Now, I was born in December and it is April. I did not renew this last year. Woo
 Now, like I have stated before, this is not my first time crossing the border. I had once crossed over the border with a moving truck in a non-truck border crossing (again another story). I was then asked to get out of my vehicle and its rear storage facility, while considerably larger, was inspected as well. I still assumed that this would be over soon after we cleared some things up. However, at this point what are you to do but to submit to the men with guns?
 
 ###“Give me your keys.”
+
  The man in the kiosk says. What option do I have? I am a US citizen, I love my county, it’s just a car, what the hell is this about, an expired tag?
 
 The agent behind my vehicle states “We are going to do a seven point inspection.” I guess I am supposed to know what the means. I feel like taking out my iPhone and Googling for it.
@@ -57,6 +60,7 @@ On the east side of the area is a room segregated by rows of seating, and on the
 “Walk to your left, down by the TV,” The border agent states. I feel relief. I did not want to be in that glass room.
 
 ###We sit
+
 , we wait, my name is called: “William” (no one calls me that but my mother), I approach the counter. I am asked to remove my jacket and hand it to him. I oblige. I empty my pockets, turn them inside our and lift up my pants legs as instructed.
 
 “What is your friend’s name?” I am asked.
@@ -76,6 +80,7 @@ He explains to me that my car is free to go back to Canada, he is careful in his
 I could not believe it. My passport is being held as hostage. He escorts us outside, points me to where my vehicle is, and tells me to pull the car out of its space and follow him. After I stop at the place instructed my documents will be returned to me.
 
 ###On US soil, 
+
 as a Citizen of the USA my passport is being withheld from my possession because of an expired vehicle tag.
 
 His car’s emergency lights go on and he pulls in front of me and escorts me to a road the only goes one way, back to Canada. I am given back my documents, told to go up the road and to “Have a nice day.”
