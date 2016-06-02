@@ -10,11 +10,11 @@ description: "A Squeak ORM that treats your RDMS like a polymorphic object datab
 ---
 Reserve abstracts your relational database as much as possible. 
  
--Naturally handles complext types (collections and polymorphic relations)
--Agressive cashing 
--Natual object enumeration/language natural query generation
--Automatic table migrations and table creation 
--Supports PostgreSQL and MySQL
+- Naturally handles complext types (collections and polymorphic relations)
+- Agressive cashing 
+- Natual object enumeration/language natural query generation
+- Automatic table migrations and table creation 
+- Supports PostgreSQL and MySQL
 
 ---
 
