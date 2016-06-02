@@ -8,6 +8,9 @@ projects: true
 hidden: true # don't count this post in blog pagination
 description: "A Squeak ORM that treats your RDMS like a polymorphic object database"
 ---
+A Squeak ORM that treats your RDMS like a polymorphic object database"
+---
+
 Reserve abstracts your relational database as much as possible. 
  
  - Naturally handles complext types (collections and polymorphic relations)
